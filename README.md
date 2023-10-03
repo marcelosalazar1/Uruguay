@@ -1,2 +1,3 @@
 # Uruguay
 Uruguay
+Variables
