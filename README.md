@@ -1,3 +1,4 @@
 # Uruguay
 Uruguay
 Variables
+Constantes
